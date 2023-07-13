@@ -7,7 +7,7 @@ I'm a Full-Stack Web Developer & Computer Science Student, working on personal p
  and <img align="center"  src="https://rustacean.net/assets/rustacean-flat-noshadow.svg" alt="rust-mascot" with="20" height="20" /> **Rust** to write software. <br>
 - Preferred Tech Stack - **MERN**: MongoDB, Express, React and Node<br>
 
-I'm also experienced with the following:
+I'm also moderately experienced with the following:
 
 ```
 ['SvelteKit', 'Nextjs', 'Redux', 'Material UI', 'Python', 'Django', 'C++', 'PostgreSQL', 'Jest']
