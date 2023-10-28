@@ -13,3 +13,4 @@ I'm also moderately experienced with the following:
 ['SvelteKit', 'Nextjs', 'Redux', 'Material UI', 'Python', 'Django', 'C++', 'PostgreSQL', 'Jest']
 ```
 
+Find me on [Linkedin](https://www.linkedin.com/in/mihai-sucaliuc/)
